@@ -1,0 +1,5 @@
+LES CHEMINS DE TRAVERSE — V0.4 BISTROT CHIC
+
+Héberger tous les fichiers ensemble sur un site HTTPS. Ouvrir index.html dans Safari puis Partager > Sur l’écran d’accueil.
+Carte Leaflet/OpenStreetMap, recherche d’adresses et aperçu piéton IGN (France). Internet requis. Guidage classique via Apple Plans, conducteur sobre uniquement. Aucun mode de contournement. Les services distants reçoivent les informations requises pour les recherches. Contact conservé localement.
+Code vérifié syntaxiquement ; services distants et iPhone non testés en conditions réelles. Avant diffusion publique, revoir les conditions et limites des fournisseurs de cartes, la confidentialité et l’accessibilité.
